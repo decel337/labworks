@@ -13,4 +13,4 @@ if 0 < x < 2:
         sum += p(x, n)
     print("Your function value:", round(sum + p(x, n + 1), 6))
 else:
-    print("ОШИБКА! Введите число х є (0;2)")
+    print("Error! Print number х є (0;2)")
